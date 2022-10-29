@@ -1,0 +1,5 @@
+{
+  "MaxHealth": 100,
+  "SpriteLink": "player.png",
+  "BehaviourScriptLink": "playerBehaviour.cs"
+}
